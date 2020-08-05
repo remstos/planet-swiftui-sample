@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>747982186099-f7fmlvdrhbrhs0r0jl4pml712qf8fral.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.747982186099-f7fmlvdrhbrhs0r0jl4pml712qf8fral</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAgQ3HouA18v2jSzVT84W_-C0jar_AD8D0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>747982186099</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.getplanet.ios</string>
+	<key>PROJECT_ID</key>
+	<string>calm-7cf85</string>
+	<key>STORAGE_BUCKET</key>
+	<string>calm-7cf85.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:747982186099:ios:8512818608849453892c06</string>
+	<key>DATABASE_URL</key>
+	<string>https://calm-7cf85.firebaseio.com</string>
+</dict>
+</plist>
